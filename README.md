@@ -1,2 +1,2 @@
 # Decision Tree Classifier
- Prediction using Decision Tree  Algorithm
+ Small guide on how to apply a prediction model using Decision Tree  Algorithm on the Iris Dataset.
